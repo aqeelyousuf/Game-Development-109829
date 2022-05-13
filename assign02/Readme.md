@@ -19,11 +19,14 @@ Shapes & Beat game is an video game. In this game, player has to control one sma
 
 
 ## Shahroz Hasan
-Flip Wars: 
+### 1. Flip Wars: 
+
 Flip Wars is an action tile-matching party video games. This is a multiplayer game(up to 4 players). The object of the game is to flip panels on a hip Drop and player who dominates before timing will be the winner.
 
-Mario Cart
+### 2. Mario Cart
+
 Tour-Mario kart is a racing mobile game. This game is similar to the Mario Kart series where the player has to reach the finish point in first. This is a type of car racing game in which player has to face different-different difficulties to reach the finish point.
 
-Ghost of Tale
+### 3. Ghost of Tale
+
 Ghost of a tale is an independent action role-playing video game. In this game, the player has to control Tilo, a small mouse, who must make his way through small underground prison and lands full of danger while uncovering mysteries of the past
